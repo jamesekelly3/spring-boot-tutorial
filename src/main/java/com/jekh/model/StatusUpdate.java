@@ -38,6 +38,10 @@ public class StatusUpdate {
 		}
 	}
 	
+	public StatusUpdate(){
+		
+	}
+	
 	public StatusUpdate(String text){
 		this.text= text;
 	}
