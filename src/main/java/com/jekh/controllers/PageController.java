@@ -12,6 +12,10 @@ public class PageController {
 	}
 	@RequestMapping("/about")
 	String about() {
-		return "about";
+		return "app.about";
+	}
+	@RequestMapping("/addStatus")
+	String addStatus() {
+		return "app.addStatus";
 	}
 }

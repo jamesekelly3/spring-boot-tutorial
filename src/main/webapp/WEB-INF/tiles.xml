@@ -10,4 +10,12 @@
 	<definition name="app.homepage" extends = "app.default">
 		<put-attribute name="content" value="/WEB-INF/tiles/home.jsp" />
 	</definition>
+	
+	<definition name="app.about" extends = "app.default">
+		<put-attribute name="content" value="/WEB-INF/tiles/about.jsp" />
+	</definition>
+	
+	<definition name="app.addStatus" extends = "app.default">
+		<put-attribute name="content" value="/WEB-INF/tiles/addStatus.jsp" />
+	</definition>
 </tiles-definitions>
