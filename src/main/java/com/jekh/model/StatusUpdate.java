@@ -101,6 +101,11 @@ public class StatusUpdate {
 		} else if (!text.equals(other.text))
 			return false;
 		return true;
+	}
+
+	@Override
+	public String toString() {
+		return "StatusUpdate [id=" + id + ", text=" + text + ", added=" + added + "]";
 	} 
 	
 	

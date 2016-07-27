@@ -25,7 +25,7 @@
 	<div class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="/">Don't be So Meme (Where being crass makes you cash)</a>
+                <a class="navbar-brand" href="/">Don't be So Meme</a>
             </div>
             <div class="navbar-collapse collapse">
                 <p class="navbar-text navbar-right">User Login <span class="glyphicon glyphicon-user" aria-hidden="true">

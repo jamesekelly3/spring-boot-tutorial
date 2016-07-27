@@ -1,10 +1,9 @@
 package com.jekh.test;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 import java.util.Calendar;
-
-import static org.junit.Assert.assertEquals;
 
 import javax.transaction.Transactional;
 
